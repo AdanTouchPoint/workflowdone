@@ -1,0 +1,18 @@
+.tac {
+    font-family: var(--font-open-sans);
+    text-align: left;
+    margin: 100px;
+    max-width: 80%;
+    font-size: 15px;
+}
+.tac > h3 {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+@media (max-width: 768px) {
+    .tac {
+        margin: 50px;
+        font-size: 12px;
+    }
+}

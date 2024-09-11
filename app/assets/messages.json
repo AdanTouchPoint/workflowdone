@@ -1,0 +1,18 @@
+{
+    "ACT":{
+        "message": "Based on TACS's decision to not impose a state tax on health services in the next 2 years:\n •Your chance to get a bulk billed GP is unchanged \n•Your gap fee to see a private GP is unchanged"
+    },
+    "NT":{
+        "message": "Based on NT's decision to not impose a state tax on health services in the next 2 years:\n •Your chance to get a bulk billed GP is unchanged \n•Your gap fee to see a private GP is unchanged"
+    },
+    "QLD":{
+        "message": "Based on QLD's decision to not impose a state tax on health services in the next 2 years:\n •Your chance to get a bulk billed GP is unchanged \n•Your gap fee to see a private GP is unchanged"
+    },
+    "TAS":{
+        "message": "Based on TAS's decision to not impose a state tax on health services in the next 2 years:\n •Your chance to get a bulk billed GP is unchanged \n•Your gap fee to see a private GP is unchanged"
+    },
+    "WA":{
+        "message": "Based on WA's decision to not impose a state tax on health services in the next 2 years:\n •Your chance to get a bulk billed GP is unchanged \n•Your gap fee to see a private GP is unchanged"
+    }
+
+}
